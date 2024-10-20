@@ -37,7 +37,7 @@ class Tapper:
                 print(Fore.CYAN + f"[{self.session_name}] User: {user_data['user_name']}, ID: {user_data['user_id']}, Balance: {user_data['balance_amount']} Dogs, Remaining Ads: {user_data['max_ads'] - user_data['watched_ads']}")
             else:
                 print(Fore.RED + f"[{self.session_name}] Failed to fetch user data")
-            await asyncio.sleep(15)
+            await asyncio.sleep(1.5)
 
     async def daily_ad(self, session):
         """ Claims the daily advertisement reward asynchronously, counting the remaining ads. """
