@@ -26,5 +26,7 @@ Run the following commands.
 > python bot/miner.py
 ```
 
+### [click here](https://t.me/yk_daemon) to Join our Telegram group for instructions on how to obtain the cookie and CSRF token
+
 > [!WARNING]
 > ⚠️ I cannot guarantee that you will not be detected as a bot. Use at your own risk. I am not responsible for any consequences of using this software.
