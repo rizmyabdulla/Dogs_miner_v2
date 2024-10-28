@@ -1,3 +1,5 @@
+> ⚠️ This project was terminated
+
 # installation for termux
 
 ```bash
